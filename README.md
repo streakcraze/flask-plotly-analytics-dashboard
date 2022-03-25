@@ -1,5 +1,6 @@
-# flask-conda-data-logger
-Reads IMU data from csv and outputs 3-axis graphs
+# flask-plotly-analytics-dashboard
+Reads IMU data from csv and outputs 3-axis graphs. 
+Reads pressure and temperature data from csv and outputs graph.
 
 #activate virtualenv -->
 .\env\Scripts\activate
